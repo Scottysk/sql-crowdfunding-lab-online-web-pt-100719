@@ -16,7 +16,7 @@ INSERT INTO users (name, age) VALUES ('Alex', 33);
 INSERT INTO users (name, age) VALUES ('Amanda', 24);
 INSERT INTO users (name, age) VALUES ('Sophie', 24);
 INSERT INTO users (name, age) VALUES ('Rosey', 9);
-INSERT INTO users (name, age) VALUES ("Amy Ulrich", 45);
+INSERT INTO users (name, age) VALUES ('Victoria', 23);
 INSERT INTO users (name, age) VALUES ("Chris Johnson", 38);
 INSERT INTO users (name, age) VALUES ("Jim Ulrich", 84);
 INSERT INTO users (name, age) VALUES ("Alisha Bowman", 27);
