@@ -8,3 +8,24 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('I have bed bugs!', 'charity', 800.00, '2014-06-30', '2014-06-31');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('I want to teach English in China', 'charity', 3000.00, '2013-06-30', '2013-09-30');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
+
+INSERT INTO users (name, age) VALUES ("Alexis Dorn", 26);
+INSERT INTO users (name, age) VALUES ("Jacob Dorn", 27);
+INSERT INTO users (name, age) VALUES ("Claire Dorn", 24);
+INSERT INTO users (name, age) VALUES ("Patrick Dorn", 51);
+INSERT INTO users (name, age) VALUES ("Abby Dorn", 50);
+INSERT INTO users (name, age) VALUES ("Bill Dorn", 85);
+INSERT INTO users (name, age) VALUES ("Steve Ulrich", 49);
+INSERT INTO users (name, age) VALUES ("Amy Ulrich", 45);
+INSERT INTO users (name, age) VALUES ("Chris Johnson", 38);
+INSERT INTO users (name, age) VALUES ("Jim Ulrich", 84);
+INSERT INTO users (name, age) VALUES ("Alisha Bowman", 27);
+INSERT INTO users (name, age) VALUES ("Kayla Payne", 27);
+INSERT INTO users (name, age) VALUES ("Jason Banning", 27);
+INSERT INTO users (name, age) VALUES ("Morgan Johnson", 26);
+INSERT INTO users (name, age) VALUES ("Casey Ulrich", 27);
+INSERT INTO users (name, age) VALUES ("Taylor Ulrich", 24);
+INSERT INTO users (name, age) VALUES ("Kyle Ulrich", 31);
+INSERT INTO users (name, age) VALUES ("Sean Pinnow", 32);
+INSERT INTO users (name, age) VALUES ("Brady Ulrich", 19);
+INSERT INTO users (name, age) VALUES ("Jaren Ulrich", 22);
