@@ -26,6 +26,6 @@ INSERT INTO users (name, age) VALUES ('Sirius', 36);
 INSERT INTO users (name, age) VALUES ('Albus', 113);
 INSERT INTO users (name, age) VALUES ('Squid', 5);
 INSERT INTO users (name, age) VALUES ('Whale', 6);
-INSERT INTO users (name, age) VALUES ("Sean Pinnow", 32);
+INSERT INTO users (name, age) VALUES ('Pacha', 5);
 INSERT INTO users (name, age) VALUES ("Brady Ulrich", 19);
 INSERT INTO users (name, age) VALUES ("Jaren Ulrich", 22);
