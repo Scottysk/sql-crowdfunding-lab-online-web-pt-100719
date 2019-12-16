@@ -9,10 +9,26 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('I want to teach English in China', 'charity', 3000.00, '2013-06-30', '2013-09-30');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
 
-INSERT INTO users (id, name, age) VALUES (1, 'Finnebar', 17), (2, 'Bear', 6), (3, 'Iguana', 4), (4, 'Alex', 33),
-(5, 'Amanda', 24), (6, 'Sophie', 24), (7, 'Rosey', 9), (8, 'Victoria', 23), (9, 'Franz', 100), (10, 'Hermione', 30),
-(11, 'Voldemort', 90), (12, 'Marisa', 24), (13, 'Swizzle', 4), (14, 'Sirius', 36), (15, 'Albus', 113), (16, 'Squid', 5),
-(17, 'Whale', 6), (18, 'Pacha', 5), (19, 'Ena', 24), (20, 'Katie', 24);
+INSERT INTO users (name, age) VALUES ('Finnebar', 17);
+INSERT INTO users (name, age) VALUES ('Bear', 6);
+INSERT INTO users (name, age) VALUES ('Iguana', 4);
+INSERT INTO users (name, age) VALUES ('Alex', 33);
+INSERT INTO users (name, age) VALUES ('Amanda', 24);
+INSERT INTO users (name, age) VALUES ('Sophie', 24);
+INSERT INTO users (name, age) VALUES ('Rosey', 9);
+INSERT INTO users (name, age) VALUES ('Victoria', 23);
+INSERT INTO users (name, age) VALUES ('Franz', 100);
+INSERT INTO users (name, age) VALUES ('Hermione', 30);
+INSERT INTO users (name, age) VALUES ('Voldemort', 90);
+INSERT INTO users (name, age) VALUES ('Marisa', 24);
+INSERT INTO users (name, age) VALUES ('Swizzle', 4);
+INSERT INTO users (name, age) VALUES ('Sirius', 36);
+INSERT INTO users (name, age) VALUES ('Albus', 113);
+INSERT INTO users (name, age) VALUES ('Squid', 5);
+INSERT INTO users (name, age) VALUES ('Whale', 6);
+INSERT INTO users (name, age) VALUES ('Pacha', 5);
+INSERT INTO users (name, age) VALUES ('Ena', 24);
+INSERT INTO users (name, age) VALUES ('Katie', 24);
 
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 (1, 10.00, 1, 2),
