@@ -10,7 +10,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
 
 INSERT INTO users (name, age) VALUES ('Finnebar', 17);
-INSERT INTO users (name, age) VALUES ("Jacob Dorn", 27);
+INSERT INTO users (name, age) VALUES ('Bear', 6);
 INSERT INTO users (name, age) VALUES ("Claire Dorn", 24);
 INSERT INTO users (name, age) VALUES ("Patrick Dorn", 51);
 INSERT INTO users (name, age) VALUES ("Abby Dorn", 50);
