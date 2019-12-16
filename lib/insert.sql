@@ -19,7 +19,7 @@ INSERT INTO users (name, age) VALUES ('Rosey', 9);
 INSERT INTO users (name, age) VALUES ('Victoria', 23);
 INSERT INTO users (name, age) VALUES ('Franz', 100);
 INSERT INTO users (name, age) VALUES ('Hermione', 30);
-INSERT INTO users (name, age) VALUES ("Alisha Bowman", 27);
+INSERT INTO users (name, age) VALUES ('Voldemort', 90);
 INSERT INTO users (name, age) VALUES ("Kayla Payne", 27);
 INSERT INTO users (name, age) VALUES ("Jason Banning", 27);
 INSERT INTO users (name, age) VALUES ("Morgan Johnson", 26);
