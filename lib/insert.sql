@@ -4,7 +4,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Animal shelter needs dog food', 'charity', 400.00, '2013-03-14', '2013-06-30');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Voldement needs a body', 'charity', 6000.00, '2013-03-20', '2013-09-20');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('The next Inna-Gadda-Davida', 'music', 200.00, '2014-12-30', '2015-12-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Wig Making", "Cancer Survivors", 1000, "7/1/17", "7/31/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ('Iguana needs tail operation', 'charity', 2000.00, '2013-10-02', '2013-10-30');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog Harnesses", "Blind & Deaf", 500, "7/1/17", "7/31/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Musical Instruments", "Developmental Disabilities", 315, "7/1/17", "7/31/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("PTSD Counseling", "Military", 80, "7/1/17", "7/31/17");
